@@ -1,9 +1,16 @@
 # Landing Page Project
 
-## Instructions
+## Project description
 
-The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+This is my first project use JavaScript, HTML, and CSS together using DOM.
 
-To get started, open `js/app.js` and start building out the app's functionality
+1. Using DOM, add navigation menu to page. Clicking on navigation menu scrolls page to section.
+2. When scrolling page, section in viewport becomes active by adding `.active` css to secion and navigation menu.
 
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
+## Usage
+
+Preview HTML page using VSCode Live Preview extension. Alternatively, you can open HTML file with your browser.
+
+## Dependencies
+
+* Web browser to view HTML page
